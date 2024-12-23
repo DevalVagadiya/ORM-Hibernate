@@ -54,6 +54,6 @@ public class Alien
 
 	@Override
 	public String toString() {
-		return "Alien [aid" aid", aname" aname", color" color "]"; 
+		return "Alien [aid"+ aid + ", aname"+ aname +", color"+ color +"]"; 
 	}
 }
