@@ -64,6 +64,6 @@ public class Student
       
       @Override
       public String toString() [
-            return "Student [rollno" rollno", name" name+", marks" marks + "]"; 
+            return "Student [rollno"+ rollno +", name"+ name +", marks"+ marks + "]"; 
       }
 }
