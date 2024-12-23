@@ -12,7 +12,7 @@ import javax.persistence.OneToMany;
 public class Student
 {
 
-@Id
+      @Id
 private int rollno;
 private String name;
 private int marks;
