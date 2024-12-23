@@ -12,7 +12,7 @@ import javax.persistence.OneToMany;
 public class Laptop
 {
 
-@Id
+      @Id
 private int lid;
 private String Iname;
 //@ManyToOne
